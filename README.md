@@ -8,6 +8,7 @@ Programming for Data Science Nanodegree Program
 
 ### Description
 Displaying summary statistics, including the most common month, day, and hour for bike rentals
+Providing user-filtered data based on city, month, and day selections
 
 ### Files used
 new_your_city.csv
